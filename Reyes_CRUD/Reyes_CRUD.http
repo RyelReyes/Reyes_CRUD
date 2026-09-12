@@ -1,0 +1,6 @@
+@Reyes_CRUD_HostAddress = http://localhost:5009
+
+GET {{Reyes_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
